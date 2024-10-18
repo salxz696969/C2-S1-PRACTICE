@@ -1,0 +1,16 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid;
+    padding-right: 10px;
+}
+th{
+    border: 1px solid;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    background-color: rgb(193, 193, 193);
+    font-weight: normal;
+}
